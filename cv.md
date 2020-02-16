@@ -26,7 +26,6 @@
 - Twitter Bootstrap
 - Avocode
 - Photoshop
-- Laravel(basic)
 
 **Work experience**
 
